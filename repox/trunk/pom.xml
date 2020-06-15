@@ -419,7 +419,7 @@
         <hibernate-core.version>3.5.1-Final</hibernate-core.version>
         <hibernate.annotations.version>3.4.0.GA</hibernate.annotations.version>
         <hibernate.entitymanager.version>3.3.2.GA</hibernate.entitymanager.version>
-        <hibernate.validator.version>4.0.2.GA</hibernate.validator.version>
+        <hibernate.validator.version>5.3.5.Final</hibernate.validator.version>
     </properties>
 </project>
 
