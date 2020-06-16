@@ -134,7 +134,7 @@
     </dependencies>
     <properties>
         <jdkLevel>1.6</jdkLevel>
-        <spring.version>3.0.2.RELEASE</spring.version>
+        <spring.version>5.2.7.RELEASE</spring.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
