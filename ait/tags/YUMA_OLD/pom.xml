@@ -252,7 +252,7 @@
     <properties>
         <spring.version>2.5.5</spring.version>
         <gwtVersion>2.0.3</gwtVersion>
-        <jetty.version>6.1.7</jetty.version>
+        <jetty.version>6.1.23</jetty.version>
         <sesame.version>2.1.4</sesame.version>
     </properties>
 </project>
